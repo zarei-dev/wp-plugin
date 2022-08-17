@@ -1,8 +1,15 @@
 {
     "name": "wp-plugin",
     "version": "1.0.0",
-    "description": "",
     "bin": {
         "command": "index.js"
-    }
+    },
+    "repository": "zarei-dev/wp-plugin",
+    "license": "MIT",
+    "main": "index.js",
+    "author": {
+		"name": "Mohammad Zarei",
+		"email": "mohammad.zarei1380@gmail.com",
+		"url": "https://zareidev.ir"
+	}
 }
